@@ -19,18 +19,13 @@ This project offers versatile object detection capabilities using the advanced Y
 
 Before running the project, you need to set up your environment and install the required libraries.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/YOLOv10-Object-Detection.git](https://github.com/YourUsername/YOLOv10-Object-Detection.git)
-    cd YOLOv10-Object-Detection
-    ```
 
-2.  **Install dependencies:**
+1.  **Install dependencies:**
     ```bash
     pip install opencv-python ultralytics
     ```
 
-3.  **Download YOLOv10 Model Weights:**
+2.  **Download YOLOv10 Model Weights:**
     The scripts require the YOLOv10 model weights. You can download the `yolov10n.pt` (nano version) or other variants from the Ultralytics GitHub repository or their official website. Place the downloaded `.pt` file in the same directory as your Python scripts.
 
     For example, for `yolov10n.pt`:
