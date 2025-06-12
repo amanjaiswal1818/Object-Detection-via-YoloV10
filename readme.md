@@ -2,7 +2,6 @@
 
 This project offers versatile object detection capabilities using the advanced YOLOv10 model. It allows you to perform real-time detection via your webcam, infer objects in static images, and process entire video files, displaying bounding boxes and confidence scores for detected objects.
 
-https://github.com/YourUsername/YOLOv10-Object-Detection/assets/your-video-file.mp4
 
 ## Features
 
