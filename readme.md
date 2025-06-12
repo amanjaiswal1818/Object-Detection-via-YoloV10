@@ -42,4 +42,21 @@ Ensure the YOLOv10 model weights (`yolov10n.pt` or your chosen model) are in the
 To perform object detection on your live webcam feed:
 
 ```bash
-python webcam_inference.py
+python main.py
+```
+
+### 2. Image Inference 
+
+To perform image inferencing on your machine:
+
+```bash
+python image_inference.py
+```
+
+### 3. Video Inference
+
+To perfoem image inferencing on your machine:
+
+```bash
+python video_inference.py
+```
